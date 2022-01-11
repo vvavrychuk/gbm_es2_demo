@@ -1,4 +1,7 @@
 # GBM ES2 Demo
+
+Original location: https://github.com/ds-hwang/gbm_es2_demo.
+
 * Example OpenGL ES2 demo using GBM and DRM (KMS) modesetting
 * This shows how ChromeOS renders GLES2 contents on the screen.
 * It uses OpenGL ES2/3 without X11 dependency, so it fits pretty good with the embedded devices world.
